@@ -10,3 +10,5 @@
 
 Скрипт работает по принципу дерева (os.walk) и ищет файлы из текущей директории и ниже.
 
+# My contacts
+[My Telegram](https://t.me/corneizer "lol")
